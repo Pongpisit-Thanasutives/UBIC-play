@@ -7,7 +7,7 @@ Using the uncertainty-penalized Bayesian information criterion (UBIC) originally
 
 # Citing UBIC
 ```
-@article{thanasutives2023adaptive,
+@article{thanasutives2024adaptive,
   author={Thanasutives, Pongpisit and Morita, Takashi and Numao, Masayuki and Fukui, Ken-ichi},
   journal={IEEE Access},
   title={Adaptive Uncertainty-Penalized Model Selection for Data-Driven PDE Discovery},
